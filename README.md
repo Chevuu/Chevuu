@@ -1,7 +1,7 @@
-[![MaterHead](https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202012/MIT-Coding-Brain-01-press_0.jpg?itok=JKoUflf8)]()
+[![MaterHead]([https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202012/MIT-Coding-Brain-01-press_0.jpg?itok=JKoUflf8](https://lh3.googleusercontent.com/Cf0UP093yqNXgwmmc54B5p4RFdSco7QCQX8LpBhU4uMf_Go1IDVGLSh6yh8P0_8DaaejuCahm2yAcuTqW3xOq-3uhjdHEGcJ_aQG=h600))]()
 <h1 align="center">Hi 👋, I'm Vuk</h1>
 <h3 align="center">Passionate and open-minded student from Serbia</h3>
-<img align "right" alt="Coding" width="400" src="https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202012/MIT-Coding-Brain-01-press_0.jpg?itok=JKoUflf8">
+<img align="right" alt="Coding" width="400" src="https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202012/MIT-Coding-Brain-01-press_0.jpg?itok=JKoUflf8">
 - 🔭 I’m currently working on **Patient-Manager**
 
 - 🌱 I’m currently learning **Perfecting JavaScript and learning React**
