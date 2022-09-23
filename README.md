@@ -1,6 +1,7 @@
+[![MaterHead](https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202012/MIT-Coding-Brain-01-press_0.jpg?itok=JKoUflf8)]()
 <h1 align="center">Hi 👋, I'm Vuk</h1>
 <h3 align="center">Passionate and open-minded student from Serbia</h3>
-
+<img align "right" alt="Coding" width="400" src="https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202012/MIT-Coding-Brain-01-press_0.jpg?itok=JKoUflf8">
 - 🔭 I’m currently working on **Patient-Manager**
 
 - 🌱 I’m currently learning **Perfecting JavaScript and learning React**
