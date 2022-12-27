@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Patient-Manager**
 
-- 🌱 I’m currently learning **Perfecting JavaScript and learning React**
+- 🌱 I’m currently **getting into Linux and operating systems**
 
 - 📫 How to reach me **vukjurisic@gmail.com**
 
