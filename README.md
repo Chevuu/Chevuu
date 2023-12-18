@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202012/MIT-Coding-Brain-01-press_0.jpg?itok=JKoUflf8">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chevuu&label=Profile%20views&color=0e75b6&style=flat" alt="chevuu" /> </p>
 
-- 🔭 I’m currently working on a Slot Machine Game which is private at the moment but basic progress (only front-end) can be found at: https://roaring-cassata-64b90f.netlify.app
+- 🔭 I’m currently working on a Slot Machine Game.
 
 - 🌱 I’m currently **getting into devops, Docker and k8s**
 
