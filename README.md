@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vuk</h1>
-<h3 align="center">Student from Serbia</h3>
+<h3 align="center">MSc Student in DelftN from Serbia</h3>
 <img align="right" alt="Coding" width="400" src="https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202012/MIT-Coding-Brain-01-press_0.jpg?itok=JKoUflf8">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chevuu&label=Profile%20views&color=0e75b6&style=flat" alt="chevuu" /> </p>
 
-- 🔭 I’m currently working on building a better copy of Agar.io.
+- Currently working on university projects.
 
-- 🌱 I’m currently **getting into devops, Docker and k8s**
+- **Getting into devops, Docker and k8s**
 
-- 📫 How to reach me **vukjurisic.ofc@gmail.com**
+- Learning about Software Acrhitecture and Design Patterns
 
-- ⚡ Fun fact **I am into learning languages!**
+- How to reach me **vukjurisic.ofc@gmail.com**
+
+- Fun fact **I am into learning languages!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
